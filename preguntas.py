@@ -43,7 +43,7 @@ def pregunta_01():
     # Imprima las nuevas dimensiones de `X`
     print(X_reshaped.shape)
 
-
+#los ejercicios del 3 en adelante presentan error por pandas, lo tuve que solucionar modificando la carpeta .json 
 def pregunta_02():
     """
     En este punto se realiza la impresión de algunas estadísticas básicas
